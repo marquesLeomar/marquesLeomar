@@ -2,7 +2,11 @@
 
 <!--
 **marquesLeomar/marquesLeomar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My Skills
 
+ <div>
+    <a href="https://www.linkedin.com/in/leomar-santos-marques-417a1562/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blanck"></a>
+  </div>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +18,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🖥️ I’m currently working on a coin (YGGDRASIL)
+- 🤔 I’m currently learning Web development (JS, CSS, HTML)
+- 💬 Contact mail - leomar.marques@engenharia.ufjf.br
+<div>
+  <a href="https://github.com/marquesLeomar/marquesLeomar" > 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marquesLeomar&show_icons=true&theme=vision-friendly-dark&border_radius=20px&border_color=bda419"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marquesLeomar&layout=compact&langs_count=16&theme=vision-friendly-dark&border_radius=20px&border_color=bda419"/>
+</div>
+
+
