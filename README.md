@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 🤔 I’m currently learning Web development (JS, CSS, HTML)
 - 💬 Contact mail - leomar.marques@engenharia.ufjf.br
 <div>
-  <a href="https://github.com/marquesLeomar/marquesLeomar" > 
+  <a href="https://github.com/marquesLeomar/marquesLeomar" > <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marquesLeomar&show_icons=true&theme=vision-friendly-dark&border_radius=20px&border_color=bda419"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marquesLeomar&layout=compact&langs_count=16&theme=vision-friendly-dark&border_radius=20px&border_color=bda419"/>
 </div>
