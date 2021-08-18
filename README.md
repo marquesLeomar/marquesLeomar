@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🖥️ I’m currently working on a coin (YGGDRASIL)
+
+- 🖥️ I’m currently working on a coin (YGGDRASIL)(<img src=https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white></a>
 - 🤔 I’m currently learning Web development (JS, CSS, HTML)
 - 💬 Contact mail - leomar.marques@engenharia.ufjf.br
 
@@ -30,6 +31,8 @@ Here are some ideas to get you started:
 <a href="https://github.com/marquesLeomar/marquesLeomar" > <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
   </div>
+  
+  
 <div>
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marquesLeomar&show_icons=true&theme=vision-friendly-dark&border_radius=20px&border_color=bda419"/>
