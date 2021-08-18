@@ -5,7 +5,8 @@
 ## My Skills
 
  <div>
-    <a href="https://www.linkedin.com/in/leomar-santos-marques-417a1562/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blanck"></a>
+    <a href="https://www.linkedin.com/in/leomar-santos-marques-417a1562/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"target="_blanck"></a>
+
   </div>
 Here are some ideas to get you started:
 
