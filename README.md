@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🖥️ I’m currently working on a coin (YGGDRASIL)(<img src=https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white></a>
+- 🖥️ I’m currently working on a coin (YGGDRASIL) <img src=https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white></a>
 - 🤔 I’m currently learning Web development (JS, CSS, HTML)
 - 💬 Contact mail - leomar.marques@engenharia.ufjf.br
 
